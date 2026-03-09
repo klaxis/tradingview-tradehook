@@ -14,8 +14,6 @@ Use this code to allow 5 tickers/symbols for trading on Robinhood, Gemini and Al
 lFX3DoQQ2WQ=
 ```
  
-#### Purchase lincese packs for TradeHook V1. 
-https://www.paypal.com/ncp/payment/6N63LBW4D6ZZA
 
  
   <img alt="Pic" src="https://github.com/klaxis/tradingview-tradehook/blob/main/img/Capture.PNG?raw=true">
